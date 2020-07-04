@@ -1,6 +1,8 @@
 Basic Go Tutorial
 
-- Hello
+PART 1
+- Install Go
+- Hello World
 - Value , Data, Variable, Const
 - Int float string bool
 - Literal int float string bool rune
@@ -10,6 +12,8 @@ Basic Go Tutorial
 - Standard package
 - Package same module
 - Package from external module
+
+PART 2
 - Control
 - if
 - logical operators
@@ -17,6 +21,8 @@ Basic Go Tutorial
 - for
 - break
 - continue
+
+PART 3
 - array (fix size) fix type
 - slice (dynamic size) fix type
 - make
@@ -33,6 +39,8 @@ Basic Go Tutorial
 - check existing element
 - for range for array slice
 - for range for map
+
+PART 4
 - struct
 - define new type name for struct
 - define field for struct
@@ -43,6 +51,8 @@ Basic Go Tutorial
 - map with struct key, map with struct value, map with array key, map with array value, map with slice value
 - array with struct value, array with map value, array with slice value, array with array value
 - slice with struct value, slice with map value, slice with slice value, slice with array value
+
+PART 5
 - pointer and function passing
 - pointer type and value
 - address & operator
@@ -50,6 +60,8 @@ Basic Go Tutorial
 - passing with pointer value
 - passing with map value
 - passing with struct value
+
+PART 6
 - type and method (basic OOP)
 - almost method is a method of struct type
 - dot operator to call method
@@ -58,6 +70,7 @@ Basic Go Tutorial
 - nil value can call method
 - chain of dot access field and method call
 
+PART 7
 - interface type define set of method
 - interface type can assign any value the have method set like when interface is defined
 - use interface as function or method parameter
@@ -69,6 +82,7 @@ Basic Go Tutorial
 - type convert
 - type switch
 
+PART 8
 - anonymous function and function type
 - closure scope
 - for loop scope
@@ -76,6 +90,7 @@ Basic Go Tutorial
 - panic
 - recover
 
+PART 9
 - define new type for any type
 - define new type for int, float, bool, string
 - define new type for map, array, slice
