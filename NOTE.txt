@@ -15,9 +15,9 @@ PART 1
 
 PART 2
 - Control
-- if
-- logical operators
-- switch
+- if, else, else if, variable if scope
+- logical operators, ==, != , >, <, >=, <=
+- switch, case, variable switch scope
 - for
 - break
 - continue
