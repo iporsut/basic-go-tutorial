@@ -46,11 +46,12 @@ PART 4
 - define field for struct
 - assign and access value of field
 - initial with literal struct
-- compose of array, map, struct
+- compose of array, slice, map, struct
 - field with struct type, map type, array type, slice type
 - map with struct key, map with struct value, map with array key, map with array value, map with slice value
 - array with struct value, array with map value, array with slice value, array with array value
 - slice with struct value, slice with map value, slice with slice value, slice with array value
+- public, private field
 
 PART 5
 - pointer and function passing
